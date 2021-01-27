@@ -1,7 +1,6 @@
 package Stacks_And_Queues_Lab;
 
 import java.util.ArrayDeque;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Scanner;
 
